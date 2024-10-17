@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://www.canva.com/design/DAGTyusJ-wU/rGFE-Aoz-3H58Pvq7MYFEA/watch?utm_content=DAGTyusJ-wU&utm_campaign=designshare&utm_medium=link&utm_source=editor' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Alternative Link:
+Alternative video Link:
 https://www.canva.com/design/DAGTyusJ-wU/rGFE-Aoz-3H58Pvq7MYFEA/watch?utm_content=DAGTyusJ-wU&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Notes
