@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
+gif: https://submissions.us-east-1.linodeobjects.com/web103/CvJg5u89.gif
 
 Alternative video Link:
 https://www.canva.com/design/DAGT_q5arec/SRQNqPUpxMrtKXmWKhS_Qg/watch?utm_content=DAGT_q5arec&utm_campaign=designshare&utm_medium=link&utm_source=editor
